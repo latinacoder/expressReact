@@ -596,10 +596,10 @@ Once everything seems working, do the following.
   to = "/index.html"
 ```
 
-• head over to netlify and create a new project based on your frontend repo, it should auto detect the build command and deploy.
-• if you run into any issues refer to this [guide for deployment](https://tuts.alexmercedcoder.com/2021/1/deployreact/)
-• You've deployed your portfolio!!!
+- head over to netlify and create a new project based on your frontend repo, it should auto detect the build command and deploy.
+- if you run into any issues refer to this [guide for deployment](https://tuts.alexmercedcoder.com/2021/1/deployreact/)
+- You've deployed your portfolio!!!
 
 ****Express Challenges****
-• Try adding a form to your React project and a post route on your express app to go with it
-• Convert from JSON files to using a mongo database for your project (not really necessary for the about info)
+- Try adding a form to your React project and a post route on your express app to go with it
+- Convert from JSON files to using a mongo database for your project (not really necessary for the about info)
