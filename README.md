@@ -565,18 +565,18 @@ export default Projects;
 ```
 
 ****What Now?****
-• Add some content to the home page
-• Spend some time styling your frontend
-• Add content to the footer
-• add all files to staging `git add .`
-• commit `git commit -m "frontend complete"`
-• push up the code `git push origin BRANCH`make sure to replace BRANCH with your active branch, you can confirm what it is with the command `git branch`
+- Add some content to the home page 
+- Spend some time styling your frontend
+- Add content to the footer 
+- add all files to staging `git add .` 
+- commit `git commit -m "frontend complete"` 
+- push up the code `git push origin BRANCH`make sure to replace BRANCH with your active branch, you can confirm what it is with the command `git branch`
 
 ****Hungry For More
 Styling Challenges (choose 1)****
-• Style using the Styled Components Library `npm install styled-components`
-• Style using sass `npm install sass`(after install change the extension on your css files scss)
-• Try using `bulma-react-components`a [library of components pre-made using Bulma](https://www.npmjs.com/package/react-bulma-components)
+- Style using the Styled Components Library `npm install styled-components` 
+- Style using sass `npm install sass`(after install change the extension on your css files scss)
+- Try using `bulma-react-components`a [library of components pre-made using Bulma](https://www.npmjs.com/package/react-bulma-components)
 
 ## **BONUS!!!**
 
