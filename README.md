@@ -165,8 +165,6 @@ app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
 
 ## **Building the Frontend**
 
-Make sure to keep your Heroku url handy, we'll need it in a moment.
-
 - open your terminal to the `frontend`folder
 - install react router `npm install react-router-dom`
 
