@@ -11,7 +11,7 @@ During this lab we will be creating a full stack portfolio page using Express an
 
 - Fork and clone the repository
 - Inside this folder create a folder for our backend app called `backend`this will house our express application
-- Then we will generate a react project for a our frontend. The command should be run from `express_react_lab` so make sure your terminal is in that folder ...
+- Then we will generate a react project for a our frontend. The command should be run from `express_react_lab` so make sure your terminal is in that folder and to include `--skip-git` at the end to avoid a nested git repository
     - `npx create-react-app frontend --skip-git`
 - The end result should be the following folder structure
 
