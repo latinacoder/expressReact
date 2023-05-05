@@ -151,18 +151,6 @@ app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
 - go to `localhost:4000/about`and make sure you see your about info as json
 - Our Backend is complete
 
-## Connect backend to Github
-
-### **Creating the git repo**
-
-- make sure your terminal is inside the "backend" folder
-- create a new git repo `git init`
-- add all files to staging `git add .`
-- commit the files `git commit -m "backend is done"`
-- create a new EMPTY repo on github.com and get the remote url
-- connect the remote to your local repo `git remote add origin URL`, make sure to replace "URL" with the URL of your github.com repo
-- push up your changes `git push origin BRANCH`make sure to replace "BRANCH" with your current branch name which can be retrieved by running `git branch`
-
 ## **Building the Frontend**
 
 - open your terminal to the `frontend`folder
@@ -568,9 +556,6 @@ export default Projects;
 - Add some content to the home page 
 - Spend some time styling your frontend
 - Add content to the footer 
-- add all files to staging `git add .` 
-- commit `git commit -m "frontend complete"` 
-- push up the code `git push origin BRANCH`make sure to replace BRANCH with your active branch, you can confirm what it is with the command `git branch`
 
 ****Hungry For More
 Styling Challenges (choose 1)****
