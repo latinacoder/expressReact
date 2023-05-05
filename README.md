@@ -149,7 +149,7 @@ app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
 - go to `localhost:4000`and make sure you see "hello world"
 - go to `localhost:4000/projects`and make sure you see your projects as JSON
 - go to `localhost:4000/about`and make sure you see your about info as json
-- Our Backend is complete, now to deploy.
+- Our Backend is complete
 
 ## Connect backend to Github
 
